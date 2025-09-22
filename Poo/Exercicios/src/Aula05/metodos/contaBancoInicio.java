@@ -13,7 +13,7 @@ public class contaBancoInicio {
 
         System.out.println("=== SISTEMA BANCO ===");
         System.out.println("Abrir uma conta? R: ");
-        System.out.println("                   [S] - SIM!\n                   [N]  - NÃO!");
+        System.out.println("                   [S] - SIM!\n                   [N] - NÃO!");
         escolha = ler.next();
 
         if (escolha.equalsIgnoreCase("S")) {
